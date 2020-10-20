@@ -1,4 +1,4 @@
-# doc
+# ART_Vue
 
 ## Project setup
 ```
