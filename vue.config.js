@@ -9,6 +9,7 @@ const vueConfig = {
     config.resolve.alias
       .set('@', resolve('src'))
   },
+  outputDir: '/Users/liangjiadong/PycharmProjects/My_Django_Project/art/dist',
   devServer: {
     // development server port 8000
     port: 8001,
